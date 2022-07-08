@@ -14,6 +14,7 @@ namespace HomeBrew
 
         static void Main(string[] args)
         {
+            game = new Game();
         }
     }
 }

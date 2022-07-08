@@ -1,0 +1,7 @@
+
+*.exe
+*.config
+*.cache
+*.pdb
+obj/Debug/HomeBrew.csproj.FileListAbsolute.txt
+obj/Release/.NETFramework,Version=v4.8.AssemblyAttributes.cs
